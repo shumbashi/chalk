@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing chalk"
+title: "Hello, World!"
 description: "Chalk is a high quality, completely customizable, performant and 100% free blog template for Jekyll."
 tags: [web, jekyll]
 ---
@@ -58,7 +58,7 @@ brew install npm
 
 On windows, install Ruby and Node with the installers found here:
 
-  - [Ruby](https://rubyinstaller.org/)  
+  - [Ruby](https://rubyinstaller.org/)
   - [Node.js](https://nodejs.org/en/download/)
 
 Next setup your environment:
