@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to configure Chalk"
+title: "Hello, Again!"
 description: "Learn more about the config file for Chalk and how to set it up properly."
 tags: [web, jekyll]
 ---
